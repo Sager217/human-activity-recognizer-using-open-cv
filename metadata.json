@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Vision Activity Tracker",
+  "description": "Real-time human activity recognition using Computer Vision techniques for motion detection and Google Gemini 2.5 Flash for advanced activity classification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
